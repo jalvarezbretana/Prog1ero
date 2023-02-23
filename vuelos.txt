@@ -1,0 +1,8 @@
+2,vueling,vuelta,21,2,01/02/23,03/03/23
+4,iberia,ida,23,2,01/02/23,03/03/13
+1,emirates,vuelta,41,2,01/02/23,03/03/13
+2,paco,idavuelta,3,21,01/02/23,03/03/23
+6,american airlanes,vuelta,50,2,01/02/23,03/03/23
+10,Iberia,Vuelta,36,2,20/04/23,22/05/23
+11,Iberia,Vuelta,32,2,24/05/23,24/07/23
+5,vueling,ida,250,2,03/03/23,04/04/23
